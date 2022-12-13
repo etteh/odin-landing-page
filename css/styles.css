@@ -89,7 +89,7 @@ img {
 }
 
 .info-images {
-    width: 200px;
+    width: auto;
     height: 200px;
     border-radius: 10px;
 }
