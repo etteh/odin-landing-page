@@ -151,3 +151,12 @@ img {
     color:#E5E7EB;
     font-size: larger;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 200px;
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
