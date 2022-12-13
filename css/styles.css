@@ -64,3 +64,28 @@ button {
     border-radius: 10px;
     border: 0;
 }
+
+.info-header {
+    font-weight: bolder;
+    font-size: 36px;
+    color: #1F2937;
+    margin: 50px;
+    text-align: center;
+}
+
+.info-parent {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+.info-text {
+    text-align: center;
+}
+
+.info-images {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
